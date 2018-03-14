@@ -233,3 +233,6 @@ www.tomshardware.com tomshardware.com * allow
 www.wired.com media.wired.com * allow
 www.wired.com wired.com * allow
 www.wired.com www.wired.com * allow
+nurserylive.com cdn.nurserylive.com * allow
+www.thehindu.com twitter.com * block
+www.thehindu.com vuukle.com * block
