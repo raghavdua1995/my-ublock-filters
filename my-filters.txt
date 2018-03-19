@@ -623,3 +623,5 @@ phys.org###n-more
 phys.org##.tabs2
 
 phys.org###tab-commented
+
+www.droid-life.com##.entry-meta__comments
