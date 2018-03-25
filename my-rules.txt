@@ -1,7 +1,10 @@
 no-cosmetic-filtering: en.wikipedia.org true
 no-cosmetic-filtering: nurserylive.com true
 no-cosmetic-filtering: wally3k.github.io true
+no-cosmetic-filtering: widely.io true
+no-cosmetic-filtering: www.flipkart.com true
 no-cosmetic-filtering: www.lenskart.com true
+no-cosmetic-filtering: www.urjakart.com true
 no-strict-blocking: feeds.dshield.org true
 * adrecover.com * block
 * adservice.google.com * block
@@ -12,6 +15,7 @@ no-strict-blocking: feeds.dshield.org true
 * api.intellimize.co * block
 * assets-cdn.github.com * allow
 * assets.gadgets360cdn.com * allow
+* asus.com * allow
 * bootstrapcdn.com * allow
 * brightcove.com * allow
 * brightcove.net * allow
@@ -30,10 +34,11 @@ no-strict-blocking: feeds.dshield.org true
 * googletagservices.com * block
 * gstatic.com * allow
 * i.forbesimg.com * allow
+* images-eu.ssl-images-amazon.com * allow
+* images-na.ssl-images-amazon.com * allow
 * images.indianexpress.com * allow
 * images.newsfactor.com * allow
 * intellimize.co * block
- 
 * js-agent.newrelic.com * block
 * maxcdn.bootstrapcdn.com * allow
 * media.wired.com * allow
@@ -73,7 +78,6 @@ indianexpress.com scorecardresearch.com * block
 indianexpress.com twitter.com * block
 opengapps.org fonts.googleapis.com * allow
 opengapps.org storage.googleapis.com * allow
- 
 thespeedproject.org ajax.googleapis.com * allow
 thespeedproject.org bootstrapcdn.com * allow
 thespeedproject.org fonts.googleapis.com * allow
@@ -81,123 +85,10 @@ thespeedproject.org fonts.gstatic.com * allow
 thespeedproject.org gstatic.com * allow
 thespeedproject.org maxcdn.bootstrapcdn.com * allow
 www.amazon.in amazon-adsystem.com * block
-www.flipkart.com facebook.com * block
-www.google.co.in google.co.in * allow
-www.grammarly.com api.intellimize.co * block
-www.grammarly.com intellimize.co * block
-www.hotstar.com adtech.de * block
-www.hotstar.com doubleclick.net * block
-www.hotstar.com facebook.net * block
-www.hotstar.com googleadservices.com * block
-www.hotstar.com googletagmanager.com * block
-www.hotstar.com scorecardresearch.com * block
-www.lenskart.com js-agent.newrelic.com * block
-www.lenskart.com newrelic.com * block
-www.lenskart.com tracker.unbxdapi.com * allow
-www.lenskart.com unbxdapi.com * allow
-www.ndtv.com adrecover.com * block
-www.ndtv.com google-analytics.com * block
-www.ndtv.com googletagservices.com * block
-www.ndtv.com quora.com * block
-www.ndtv.com scorecardresearch.com * block
-www.ndtv.com taboola.com * block
-www.omgubuntu.co.uk omgubuntu.co.uk * allow
-www.omgubuntu.co.uk www.omgubuntu.co.uk * allow
-www.popsci.com adservice.google.com * block
-www.popsci.com google.com * allow
-www.popsci.com gstatic.com * allow
-www.popsci.com moatads.com * block
-www.popsci.com popsci.com * allow
-www.saavn.com sokrati.com * block
-www.sci-tech-today.com images.newsfactor.com * allow
-www.sci-tech-today.com newsfactor.com * allow
-www.sci-tech-today.com www.sci-tech-today.com * allow
-www.tomshardware.com tomshardware.com * allow
-www.wired.com media.wired.com * allow
-www.wired.com wired.com * allow
-www.wired.com www.wired.com * allowno-cosmetic-filtering: en.wikipedia.org true
-no-cosmetic-filtering: nurserylive.com true
-no-cosmetic-filtering: wally3k.github.io true
-no-cosmetic-filtering: www.lenskart.com true
-no-strict-blocking: feeds.dshield.org true
-* adrecover.com * block
-* adservice.google.com * block
-* adtech.de * block
-* ajax.googleapis.com * allow
-* amazon-adsystem.com * block
-* api.github.com * allow
-* api.intellimize.co * block
-* assets-cdn.github.com * allow
-* assets.gadgets360cdn.com * allow
-* bootstrapcdn.com * allow
-* brightcove.com * allow
-* brightcove.net * allow
-* disqus.com * block
-* doubleclick.net * block
-* facebook.com * block
-* facebook.net * block
-* fonts.googleapis.com * allow
-* fonts.gstatic.com * allow
-* gadgets360cdn.com * allow
-* google-analytics.com * block
-* google.co.in * allow
-* google.com * allow
-* googleadservices.com * block
-* googletagmanager.com * block
-* googletagservices.com * block
-* gstatic.com * allow
-* i.forbesimg.com * allow
-* images.indianexpress.com * allow
-* images.newsfactor.com * allow
-* intellimize.co * block
- 
-* js-agent.newrelic.com * block
-* maxcdn.bootstrapcdn.com * allow
-* media.wired.com * allow
-* moatads.com * block
-* newrelic.com * block
-* newsfactor.com * allow
-* omgubuntu.co.uk * allow
-* optimizely.com * allow
-* outbrain.com * block
-* popsci.com * allow
-* quora.com * block
-* scorecardresearch.com * block
-* sokrati.com * block
-* storage.googleapis.com * allow
-* taboola.com * block
-* tomshardware.com * allow
-* tracker.unbxdapi.com * allow
-* twitter.com * block
-* unbxdapi.com * allow
-* wired.com * allow
-* www.omgubuntu.co.uk * allow
-* www.popsci.com * allow
-* www.sci-tech-today.com * allow
-behind-the-scene * 3p noop
-behind-the-scene * 3p-frame noop
-filehippo.com disqus.com * block
-filehippo.com facebook.net * block
-filehippo.com outbrain.com * block
-filehippo.com twitter.com * block
-gadgets.ndtv.com assets.gadgets360cdn.com * allow
-gadgets.ndtv.com gadgets360cdn.com * allow
-github.com assets-cdn.github.com * allow
-indianexpress.com images.indianexpress.com * allow
-indianexpress.com outbrain.com * block
-indianexpress.com quora.com * block
-indianexpress.com scorecardresearch.com * block
-indianexpress.com twitter.com * block
-opengapps.org fonts.googleapis.com * allow
-opengapps.org storage.googleapis.com * allow
- 
-thespeedproject.org ajax.googleapis.com * allow
-thespeedproject.org bootstrapcdn.com * allow
-thespeedproject.org fonts.googleapis.com * allow
-thespeedproject.org fonts.gstatic.com * allow
-thespeedproject.org gstatic.com * allow
-thespeedproject.org maxcdn.bootstrapcdn.com * allow
-www.amazon.in amazon-adsystem.com * block
+www.amazon.in images-eu.ssl-images-amazon.com * allow
+www.amazon.in images-na.ssl-images-amazon.com * allow
+www.asus.com asus.com * allow
+www.asus.com googletagmanager.com * block
 www.flipkart.com facebook.com * block
 www.google.co.in google.co.in * allow
 www.grammarly.com api.intellimize.co * block
@@ -233,6 +124,3 @@ www.tomshardware.com tomshardware.com * allow
 www.wired.com media.wired.com * allow
 www.wired.com wired.com * allow
 www.wired.com www.wired.com * allow
-nurserylive.com cdn.nurserylive.com * allow
-www.thehindu.com twitter.com * block
-www.thehindu.com vuukle.com * block
