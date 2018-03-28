@@ -1,13 +1,12 @@
 no-cosmetic-filtering: en.wikipedia.org true
 no-cosmetic-filtering: nurserylive.com true
 no-cosmetic-filtering: wally3k.github.io true
-no-cosmetic-filtering: widely.io true
-no-cosmetic-filtering: www.flipkart.com true
 no-cosmetic-filtering: www.lenskart.com true
-no-cosmetic-filtering: www.urjakart.com true
 no-strict-blocking: feeds.dshield.org true
 * adrecover.com * block
+* ads-twitter.com * block
 * adservice.google.com * block
+* adsrvr.org * block
 * adtech.de * block
 * ajax.googleapis.com * allow
 * amazon-adsystem.com * block
@@ -15,11 +14,12 @@ no-strict-blocking: feeds.dshield.org true
 * api.intellimize.co * block
 * assets-cdn.github.com * allow
 * assets.gadgets360cdn.com * allow
-* asus.com * allow
 * bootstrapcdn.com * allow
 * brightcove.com * allow
 * brightcove.net * allow
+* clicktale.net * block
 * disqus.com * block
+* disquscdn.com * block
 * doubleclick.net * block
 * facebook.com * block
 * facebook.net * block
@@ -34,8 +34,6 @@ no-strict-blocking: feeds.dshield.org true
 * googletagservices.com * block
 * gstatic.com * allow
 * i.forbesimg.com * allow
-* images-eu.ssl-images-amazon.com * allow
-* images-na.ssl-images-amazon.com * allow
 * images.indianexpress.com * allow
 * images.newsfactor.com * allow
 * intellimize.co * block
@@ -56,6 +54,7 @@ no-strict-blocking: feeds.dshield.org true
 * taboola.com * block
 * tomshardware.com * allow
 * tracker.unbxdapi.com * allow
+* twimg.com * block
 * twitter.com * block
 * unbxdapi.com * allow
 * wired.com * allow
@@ -76,6 +75,7 @@ indianexpress.com outbrain.com * block
 indianexpress.com quora.com * block
 indianexpress.com scorecardresearch.com * block
 indianexpress.com twitter.com * block
+nurserylive.com cdn.nurserylive.com * allow
 opengapps.org fonts.googleapis.com * allow
 opengapps.org storage.googleapis.com * allow
 thespeedproject.org ajax.googleapis.com * allow
@@ -84,11 +84,9 @@ thespeedproject.org fonts.googleapis.com * allow
 thespeedproject.org fonts.gstatic.com * allow
 thespeedproject.org gstatic.com * allow
 thespeedproject.org maxcdn.bootstrapcdn.com * allow
+thewincentral.com disquscdn.com * block
+thewincentral.com twimg.com * block
 www.amazon.in amazon-adsystem.com * block
-www.amazon.in images-eu.ssl-images-amazon.com * allow
-www.amazon.in images-na.ssl-images-amazon.com * allow
-www.asus.com asus.com * allow
-www.asus.com googletagmanager.com * block
 www.flipkart.com facebook.com * block
 www.google.co.in google.co.in * allow
 www.grammarly.com api.intellimize.co * block
@@ -103,6 +101,10 @@ www.lenskart.com js-agent.newrelic.com * block
 www.lenskart.com newrelic.com * block
 www.lenskart.com tracker.unbxdapi.com * allow
 www.lenskart.com unbxdapi.com * allow
+www.microsoft.com ads-twitter.com * block
+www.microsoft.com adsrvr.org * block
+www.microsoft.com clicktale.net * block
+www.microsoft.com twitter.com * block
 www.ndtv.com adrecover.com * block
 www.ndtv.com google-analytics.com * block
 www.ndtv.com googletagservices.com * block
@@ -120,6 +122,8 @@ www.saavn.com sokrati.com * block
 www.sci-tech-today.com images.newsfactor.com * allow
 www.sci-tech-today.com newsfactor.com * allow
 www.sci-tech-today.com www.sci-tech-today.com * allow
+www.thehindu.com twitter.com * block
+www.thehindu.com vuukle.com * block
 www.tomshardware.com tomshardware.com * allow
 www.wired.com media.wired.com * allow
 www.wired.com wired.com * allow
