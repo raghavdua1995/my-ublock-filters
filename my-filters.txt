@@ -606,6 +606,10 @@ www.financialexpress.com###tie_topcommentlist
 
 www.financialexpress.com##.mb25.commentlist_container.commentlist-box
 
+www.financialexpress.com##.fe-facbook-menu
+
+www.financialexpress.com##.fe-twitter-menu
+
 phys.org##.info
 
 phys.org##.connect-box
@@ -625,3 +629,9 @@ phys.org##.tabs2
 phys.org###tab-commented
 
 www.droid-life.com##.entry-meta__comments
+
+thewincentral.com##.comment_count
+
+thewincentral.com##.featured-category-wrapper
+
+thewincentral.com###disqus_thread
