@@ -26,6 +26,7 @@ no-strict-blocking: feeds.dshield.org true
 * fonts.googleapis.com * allow
 * fonts.gstatic.com * allow
 * gadgets360cdn.com * allow
+* githubapp.com * allow
 * google-analytics.com * block
 * google.co.in * allow
 * google.com * allow
@@ -70,6 +71,7 @@ filehippo.com twitter.com * block
 gadgets.ndtv.com assets.gadgets360cdn.com * allow
 gadgets.ndtv.com gadgets360cdn.com * allow
 github.com assets-cdn.github.com * allow
+github.com githubapp.com * allow
 indianexpress.com images.indianexpress.com * allow
 indianexpress.com outbrain.com * block
 indianexpress.com quora.com * block
