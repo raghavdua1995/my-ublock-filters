@@ -635,3 +635,7 @@ thewincentral.com##.comment_count
 thewincentral.com##.featured-category-wrapper
 
 thewincentral.com###disqus_thread
+
+nptel.ac.in##footer
+
+nptel.ac.in##.sticky
