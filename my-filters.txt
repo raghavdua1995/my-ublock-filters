@@ -639,3 +639,7 @@ thewincentral.com###disqus_thread
 nptel.ac.in##footer
 
 nptel.ac.in##.sticky
+
+www.inc.com##.insideArticleAdContainer
+
+www.ndtv.com##.gsocial_icons
