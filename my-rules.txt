@@ -113,6 +113,7 @@ www.ndtv.com googletagservices.com * block
 www.ndtv.com quora.com * block
 www.ndtv.com scorecardresearch.com * block
 www.ndtv.com taboola.com * block
+* ndtvimg.com * allow
 www.omgubuntu.co.uk omgubuntu.co.uk * allow
 www.omgubuntu.co.uk www.omgubuntu.co.uk * allow
 www.popsci.com adservice.google.com * block
