@@ -131,3 +131,6 @@ www.tomshardware.com tomshardware.com * allow
 www.wired.com media.wired.com * allow
 www.wired.com wired.com * allow
 www.wired.com www.wired.com * allow
+* chartbeat.net * block
+* imasdk.googleapis.com * allow
+* s3.amazonaws.com  * allow
