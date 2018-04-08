@@ -1,6 +1,8 @@
 no-cosmetic-filtering: en.wikipedia.org true
+no-cosmetic-filtering: naisadak.org true
 no-cosmetic-filtering: nurserylive.com true
 no-cosmetic-filtering: wally3k.github.io true
+no-cosmetic-filtering: www.flipkart.com true
 no-cosmetic-filtering: www.lenskart.com true
 no-strict-blocking: feeds.dshield.org true
 * adrecover.com * block
@@ -17,6 +19,7 @@ no-strict-blocking: feeds.dshield.org true
 * bootstrapcdn.com * allow
 * brightcove.com * allow
 * brightcove.net * allow
+* chartbeat.net * block
 * clicktale.net * block
 * disqus.com * block
 * disquscdn.com * block
@@ -37,18 +40,24 @@ no-strict-blocking: feeds.dshield.org true
 * i.forbesimg.com * allow
 * images.indianexpress.com * allow
 * images.newsfactor.com * allow
+* imasdk.googleapis.com * allow
 * intellimize.co * block
 * js-agent.newrelic.com * block
 * maxcdn.bootstrapcdn.com * allow
 * media.wired.com * allow
 * moatads.com * block
+* naisadak.org * allow
+* ndtv.com * allow
+* ndtvimg.com * allow
 * newrelic.com * block
 * newsfactor.com * allow
+* newslaundry.com * allow
 * omgubuntu.co.uk * allow
 * optimizely.com * allow
 * outbrain.com * block
 * popsci.com * allow
 * quora.com * block
+* s3.amazonaws.com * allow
 * scorecardresearch.com * block
 * sokrati.com * block
 * storage.googleapis.com * allow
@@ -77,6 +86,7 @@ indianexpress.com outbrain.com * block
 indianexpress.com quora.com * block
 indianexpress.com scorecardresearch.com * block
 indianexpress.com twitter.com * block
+naisadak.org naisadak.org * allow
 nurserylive.com cdn.nurserylive.com * allow
 opengapps.org fonts.googleapis.com * allow
 opengapps.org storage.googleapis.com * allow
@@ -113,7 +123,6 @@ www.ndtv.com googletagservices.com * block
 www.ndtv.com quora.com * block
 www.ndtv.com scorecardresearch.com * block
 www.ndtv.com taboola.com * block
-* ndtvimg.com * allow
 www.omgubuntu.co.uk omgubuntu.co.uk * allow
 www.omgubuntu.co.uk www.omgubuntu.co.uk * allow
 www.popsci.com adservice.google.com * block
@@ -131,6 +140,3 @@ www.tomshardware.com tomshardware.com * allow
 www.wired.com media.wired.com * allow
 www.wired.com wired.com * allow
 www.wired.com www.wired.com * allow
-* chartbeat.net * block
-* imasdk.googleapis.com * allow
-* s3.amazonaws.com  * allow
