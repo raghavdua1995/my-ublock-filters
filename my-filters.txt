@@ -681,3 +681,9 @@ www.newslaundry.com##.vote-counter-section
 www.newslaundry.com##.active
 
 www.ndtv.com##.comment_story
+
+www.windowscentral.com##.article-bullet__comment-count
+
+indianexpress.com##.adbox-border-desk
+
+indianexpress.com##.followusbx
