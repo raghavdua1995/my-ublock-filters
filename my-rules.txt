@@ -5,6 +5,7 @@ no-cosmetic-filtering: wally3k.github.io true
 no-cosmetic-filtering: www.flipkart.com true
 no-cosmetic-filtering: www.lenskart.com true
 no-strict-blocking: feeds.dshield.org true
+* 2mdn.net * block
 * adrecover.com * block
 * ads-twitter.com * block
 * adservice.google.com * block
@@ -29,6 +30,7 @@ no-strict-blocking: feeds.dshield.org true
 * fonts.googleapis.com * allow
 * fonts.gstatic.com * allow
 * gadgets360cdn.com * allow
+* gfx.ms * allow
 * githubapp.com * allow
 * google-analytics.com * block
 * google.co.in * allow
@@ -43,8 +45,10 @@ no-strict-blocking: feeds.dshield.org true
 * imasdk.googleapis.com * allow
 * intellimize.co * block
 * js-agent.newrelic.com * block
+* jwplatform.com * allow
 * maxcdn.bootstrapcdn.com * allow
 * media.wired.com * allow
+* microsoft.com * allow
 * moatads.com * block
 * naisadak.org * allow
 * ndtv.com * allow
@@ -55,7 +59,9 @@ no-strict-blocking: feeds.dshield.org true
 * omgubuntu.co.uk * allow
 * optimizely.com * allow
 * outbrain.com * block
+* perfdrive.com * allow
 * popsci.com * allow
+* purch.com * allow
 * quora.com * block
 * s3.amazonaws.com * allow
 * scorecardresearch.com * block
@@ -136,6 +142,8 @@ www.sci-tech-today.com newsfactor.com * allow
 www.sci-tech-today.com www.sci-tech-today.com * allow
 www.thehindu.com twitter.com * block
 www.thehindu.com vuukle.com * block
+www.tomshardware.com 2mdn.net * block
+www.tomshardware.com google.com * allow
 www.tomshardware.com tomshardware.com * allow
 www.wired.com media.wired.com * allow
 www.wired.com wired.com * allow
