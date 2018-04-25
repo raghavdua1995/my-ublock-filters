@@ -687,3 +687,33 @@ www.windowscentral.com##.article-bullet__comment-count
 indianexpress.com##.adbox-border-desk
 
 indianexpress.com##.followusbx
+
+www.tomshardware.com##.comment-widget
+
+www.askvg.com###Nav:nth-of-type(3)
+
+www.askvg.com##.comment-respond
+
+www.askvg.com###comments
+
+www.askvg.com##.commentlist
+
+www.windowslatest.com##.td-post-comments
+
+www.windowslatest.com##.td-module-comments
+
+www.theregister.co.uk##.comments_share
+
+telecom.economictimes.indiatimes.com##.social.circle
+
+thewire.in##.about-us__sidebar-follow-title
+
+thewire.in##.about-us__sidebar-social-link
+
+thewire.in##div:nth-of-type(2) > .about-border--red
+
+www.udemy.com##.marketplace-social-share-container--social-share-container--top-border--17XmS.marketplace-social-share-container--social-share-container--2F_SQ
+
+jakearchibald.com###comments
+
+developers.google.com###gplus-comment-container
