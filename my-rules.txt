@@ -1,9 +1,6 @@
-no-cosmetic-filtering: en.wikipedia.org true
 no-cosmetic-filtering: naisadak.org true
 no-cosmetic-filtering: nurserylive.com true
-no-cosmetic-filtering: wally3k.github.io true
-no-cosmetic-filtering: www.flipkart.com true
-no-cosmetic-filtering: www.lenskart.com true
+no-strict-blocking: blog.google true
 no-strict-blocking: feeds.dshield.org true
 * 2mdn.net * block
 * adrecover.com * block
@@ -13,10 +10,12 @@ no-strict-blocking: feeds.dshield.org true
 * adtech.de * block
 * ajax.googleapis.com * allow
 * amazon-adsystem.com * block
+* amazon.in * allow
 * api.github.com * allow
 * api.intellimize.co * block
 * assets-cdn.github.com * allow
 * assets.gadgets360cdn.com * allow
+* bing.com * allow
 * bootstrapcdn.com * allow
 * brightcove.com * allow
 * brightcove.net * allow
@@ -25,8 +24,10 @@ no-strict-blocking: feeds.dshield.org true
 * disqus.com * block
 * disquscdn.com * block
 * doubleclick.net * block
+* etb2bimg.com * allow
 * facebook.com * block
 * facebook.net * block
+* flixcart.com * allow
 * fonts.googleapis.com * allow
 * fonts.gstatic.com * allow
 * gadgets360cdn.com * allow
@@ -43,10 +44,12 @@ no-strict-blocking: feeds.dshield.org true
 * images.indianexpress.com * allow
 * images.newsfactor.com * allow
 * imasdk.googleapis.com * allow
+* indiatimes.com * allow
 * intellimize.co * block
 * js-agent.newrelic.com * block
 * jwplatform.com * allow
 * maxcdn.bootstrapcdn.com * allow
+* media-amazon.com * allow
 * media.wired.com * allow
 * microsoft.com * allow
 * moatads.com * block
@@ -61,17 +64,23 @@ no-strict-blocking: feeds.dshield.org true
 * outbrain.com * block
 * perfdrive.com * allow
 * popsci.com * allow
+* primevideo.com * allow
 * purch.com * allow
 * quora.com * block
+* regmedia.co.uk * allow
 * s3.amazonaws.com * allow
 * scorecardresearch.com * block
 * sokrati.com * block
+* ssl-images-amazon.com * allow
 * storage.googleapis.com * allow
 * taboola.com * block
+* thewire.in * allow
 * tomshardware.com * allow
 * tracker.unbxdapi.com * allow
+* trello.com * allow
 * twimg.com * block
 * twitter.com * block
+* udemy.com * allow
 * unbxdapi.com * allow
 * wired.com * allow
 * www.omgubuntu.co.uk * allow
@@ -92,16 +101,11 @@ indianexpress.com outbrain.com * block
 indianexpress.com quora.com * block
 indianexpress.com scorecardresearch.com * block
 indianexpress.com twitter.com * block
+mail.google.com trello.com * allow
 naisadak.org naisadak.org * allow
 nurserylive.com cdn.nurserylive.com * allow
 opengapps.org fonts.googleapis.com * allow
 opengapps.org storage.googleapis.com * allow
-thespeedproject.org ajax.googleapis.com * allow
-thespeedproject.org bootstrapcdn.com * allow
-thespeedproject.org fonts.googleapis.com * allow
-thespeedproject.org fonts.gstatic.com * allow
-thespeedproject.org gstatic.com * allow
-thespeedproject.org maxcdn.bootstrapcdn.com * allow
 thewincentral.com disquscdn.com * block
 thewincentral.com twimg.com * block
 www.amazon.in amazon-adsystem.com * block
