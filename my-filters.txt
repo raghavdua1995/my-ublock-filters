@@ -342,10 +342,11 @@ www.windowscentral.com##.article-bullet__comment-count
 indianexpress.com##.adbox-border-desk
 indianexpress.com##.followusbx
 www.tomshardware.com##.comment-widget
-www.askvg.com###Nav:nth-of-type(3)
+www.askvg.com###banner
 www.askvg.com##.comment-respond
 www.askvg.com###comments
 www.askvg.com##.commentlist
+www.askvg.com###Nav:nth-of-type(3)
 www.windowslatest.com##.td-post-comments
 www.windowslatest.com##.td-module-comments
 www.theregister.co.uk##.comments_share
