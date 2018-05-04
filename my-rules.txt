@@ -68,6 +68,7 @@ no-strict-blocking: www.httrack.com true
 * omgubuntu.co.uk * allow
 * optimizely.com * allow
 * outbrain.com * block
+* paytm.com * allow
 * perfdrive.com * allow
 * popsci.com * allow
 * primevideo.com * allow
