@@ -4,6 +4,7 @@ no-cosmetic-filtering: raghavdua.in true
 no-strict-blocking: blog.google true
 no-strict-blocking: download.httrack.com true
 no-strict-blocking: feeds.dshield.org true
+no-strict-blocking: guce.oath.com true
 no-strict-blocking: www.httrack.com true
 * 2mdn.net * block
 * adrecover.com * block
