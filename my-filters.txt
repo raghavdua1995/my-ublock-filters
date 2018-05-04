@@ -1,3 +1,6 @@
+www.alphr.com###block-menu-menu-footer-social
+www.alphr.com##.lazyadslot
+www.alphr.com##.amazon-product--container
 www.insightsonindia.com###disqus_thread
 www.cricbuzz.com##.cb-ftr-cntnr > .cb-col.cb-col-25:nth-of-type(3)
 www.cricbuzz.com##.cb-bg-white.cb-hm-rt-itm.cb-col-100.cb-col:nth-of-type(7)
