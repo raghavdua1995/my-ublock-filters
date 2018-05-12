@@ -47,6 +47,7 @@ no-strict-blocking: www.httrack.com true
 * googletagmanager.com * block
 * googletagservices.com * block
 * gstatic.com * allow
+* hp.com * allow
 * i.forbesimg.com * allow
 * images.indianexpress.com * allow
 * images.newsfactor.com * allow
@@ -88,6 +89,7 @@ no-strict-blocking: www.httrack.com true
 * trello.com * allow
 * twimg.com * block
 * twitter.com * block
+* udacity.com * allow
 * udemy.com * allow
 * unbxdapi.com * allow
 * wired.com * allow
