@@ -163,3 +163,13 @@ www.tomshardware.com tomshardware.com * allow
 www.wired.com media.wired.com * allow
 www.wired.com wired.com * allow
 www.wired.com www.wired.com * allow
+no-cosmetic-filtering: contacts.google.com true
+no-cosmetic-filtering: forums.asp.net true
+* adobedtm.com * block
+* eff.org * allow
+* humanetech.com * allow
+* samsungcsportal.com * allow
+* technologyreview.com * allow
+* tedcdn.com * allow
+panopticlick.eff.org eff.org * allow
+www.wired.com adobedtm.com * block
