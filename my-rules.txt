@@ -1,12 +1,18 @@
+no-cosmetic-filtering: contacts.google.com true
+no-cosmetic-filtering: forums.asp.net true
 no-cosmetic-filtering: naisadak.org true
 no-cosmetic-filtering: nurserylive.com true
 no-cosmetic-filtering: raghavdua.in true
+no-cosmetic-filtering: www.flipkart.com true
+no-large-media: behind-the-scene false
 no-strict-blocking: blog.google true
 no-strict-blocking: download.httrack.com true
 no-strict-blocking: feeds.dshield.org true
 no-strict-blocking: guce.oath.com true
+no-strict-blocking: partners.shopify.com true
 no-strict-blocking: www.httrack.com true
 * 2mdn.net * block
+* adobedtm.com * block
 * adrecover.com * block
 * ads-twitter.com * block
 * adservice.google.com * block
@@ -25,10 +31,12 @@ no-strict-blocking: www.httrack.com true
 * brightcove.net * allow
 * browserstack.com * allow
 * chartbeat.net * block
+* class-central.com * allow
 * clicktale.net * block
 * disqus.com * block
 * disquscdn.com * block
 * doubleclick.net * block
+* eff.org * allow
 * etb2bimg.com * allow
 * facebook.com * block
 * facebook.net * block
@@ -48,6 +56,7 @@ no-strict-blocking: www.httrack.com true
 * googletagservices.com * block
 * gstatic.com * allow
 * hp.com * allow
+* humanetech.com * allow
 * i.forbesimg.com * allow
 * images.indianexpress.com * allow
 * images.newsfactor.com * allow
@@ -78,11 +87,15 @@ no-strict-blocking: www.httrack.com true
 * quora.com * block
 * regmedia.co.uk * allow
 * s3.amazonaws.com * allow
+* s3.ap-northeast-2.amazonaws.com * allow
+* samsungcsportal.com * allow
 * scorecardresearch.com * block
 * sokrati.com * block
 * ssl-images-amazon.com * allow
 * storage.googleapis.com * allow
 * taboola.com * block
+* technologyreview.com * allow
+* tedcdn.com * allow
 * thewire.in * allow
 * tomshardware.com * allow
 * tracker.unbxdapi.com * allow
@@ -97,8 +110,13 @@ no-strict-blocking: www.httrack.com true
 * www.omgubuntu.co.uk * allow
 * www.popsci.com * allow
 * www.sci-tech-today.com * allow
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
 behind-the-scene * 3p noop
 behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
 filehippo.com disqus.com * block
 filehippo.com facebook.net * block
 filehippo.com outbrain.com * block
@@ -117,6 +135,7 @@ naisadak.org naisadak.org * allow
 nurserylive.com cdn.nurserylive.com * allow
 opengapps.org fonts.googleapis.com * allow
 opengapps.org storage.googleapis.com * allow
+panopticlick.eff.org eff.org * allow
 thewincentral.com disquscdn.com * block
 thewincentral.com twimg.com * block
 www.amazon.in amazon-adsystem.com * block
@@ -160,16 +179,7 @@ www.thehindu.com vuukle.com * block
 www.tomshardware.com 2mdn.net * block
 www.tomshardware.com google.com * allow
 www.tomshardware.com tomshardware.com * allow
+www.wired.com adobedtm.com * block
 www.wired.com media.wired.com * allow
 www.wired.com wired.com * allow
 www.wired.com www.wired.com * allow
-no-cosmetic-filtering: contacts.google.com true
-no-cosmetic-filtering: forums.asp.net true
-* adobedtm.com * block
-* eff.org * allow
-* humanetech.com * allow
-* samsungcsportal.com * allow
-* technologyreview.com * allow
-* tedcdn.com * allow
-panopticlick.eff.org eff.org * allow
-www.wired.com adobedtm.com * block
