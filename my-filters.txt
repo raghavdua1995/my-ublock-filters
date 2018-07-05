@@ -212,6 +212,8 @@ www.getfitso.com###comments
 www.ghacks.net###comments
 www.gsmarena.com##.article-info-meta
 www.gsmarena.com##.meta-item-comments
+www.google.co.in##.b2hzT
+www.google.com##.b2hzT
 www.helpnetsecurity.com##.entry-share-bottom
 www.howtogeek.com##.third.footer-col
 www.inc.com##.insideArticleAdContainer
@@ -247,6 +249,7 @@ www.ndtv.com##.ins_rhscont300
 www.ndtv.com##.latest-stories-38.col_third > ul > li:nth-of-type(2)
 www.ndtv.com##.more_st_sticky_cont
 www.ndtv.com##.socialicon
+www.ndtv.com##.sponscont
 www.ndtv.com##div:nth-of-type(10) > .row
 www.neowin.net###comments
 www.neowin.net##.article-share
