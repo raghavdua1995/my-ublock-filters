@@ -383,3 +383,19 @@ www.zdnet.com##.comments
 www.zdnet.com##.loggedOut.add-comment
 www.zdnet.com##.postComments
 www.zdnet.com##.shareBar
+https://gadgets.ndtv.com/others/news/xiaomi-india-gst-rate-cut-10000mah-20000mah-mi-power-bank-2i-pro-price-cut-1890948?pfrom=home-tech
+gadgets.ndtv.com##.comment_story
+https://gadgets.ndtv.com/others/news/xiaomi-india-gst-rate-cut-10000mah-20000mah-mi-power-bank-2i-pro-price-cut-1890948?pfrom=home-tech
+gadgets.ndtv.com##.lhs_top_banner
+chocolatey.org##.dsq-brlink
+beebom.com##.comment-news
+twitter.com##.Footer-adsModule
+www.youtube.com##.ytd-live-chat-frame.style-scope
+www.youtube.com###chat
+www.dailymotion.com##button.QueueActions__action___3ixmt:nth-of-type(3)
+twitter.com##.js-moments-tab.moments
+twitter.com##.is-autoCentered.is-forceRight.dropdown-menu--rightAlign.dropdown-menu.DashUserDropdown > ul > li:nth-of-type(5) > .js-nav
+www.hirist.com##.bannerspace
+www.hirist.com###learngrow
+www.hirist.com##.adppnew.pdlr0
+www.dailymotion.com##.AdWatchingRight__xlarge___2S3V_
