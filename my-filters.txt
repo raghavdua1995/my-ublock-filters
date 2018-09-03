@@ -399,3 +399,6 @@ www.hirist.com##.bannerspace
 www.hirist.com###learngrow
 www.hirist.com##.adppnew.pdlr0
 www.dailymotion.com##.AdWatchingRight__xlarge___2S3V_
+www.financialexpress.com###vuukle-comments
+twitter.com###global-nav-moments
+indianexpress.com###vuukle-comments
