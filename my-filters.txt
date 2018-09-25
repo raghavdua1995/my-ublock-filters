@@ -217,6 +217,7 @@ www.google.com##.b2hzT
 www.helpnetsecurity.com##.entry-share-bottom
 www.howtogeek.com##.third.footer-col
 www.inc.com##.insideArticleAdContainer
+indianexpress.com###append_breaking_box
 www.insightsonindia.com###disqus_thread
 www.itpro.co.uk###block-dfp-billboard-leaderboard
 www.itpro.co.uk###block-dfp-mpu-1
