@@ -45,6 +45,7 @@ fossbytes.com##footer > h5
 gadgets.ndtv.com##.gsocialbar
 hackernoon.com##.supplementalPostContent
 home.bt.com##.hidden-xs.leaderboard
+indianexpress.com###append_breaking_box
 indianexpress.com###responded
 indianexpress.com###tie_topcommentlist
 indianexpress.com##.adbox-border-desk
