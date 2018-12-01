@@ -15,6 +15,7 @@ betanews.com###disqus_thread
 betanews.com##.actions
 betanews.com##.follow
 betanews.com##.reviewCount
+blog.uncommon.is##.supplementalPostContent
 chocolatey.org###package-disclaimer
 community.spiceworks.com###postform
 community.spiceworks.com##.community-content--ad_card
