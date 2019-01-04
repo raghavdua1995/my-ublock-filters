@@ -8,6 +8,7 @@ arstechnica.com##.column-wrapper:nth-of-type(1) > .xrail
 arstechnica.com##.comments-hotness
 arstechnica.com##.follow-us
 asia.nikkei.com##.page-footer__column--right.page-footer__column--half.page-footer__column
+beebom.com##.comment-news
 beta.techcrunch.com##.article__action-links
 beta.techcrunch.com##.block--comment
 betanews.com###adtoniq-msg-bar
@@ -17,6 +18,7 @@ betanews.com##.follow
 betanews.com##.reviewCount
 blog.uncommon.is##.supplementalPostContent
 chocolatey.org###package-disclaimer
+chocolatey.org##.dsq-brlink
 community.spiceworks.com###postform
 community.spiceworks.com##.community-content--ad_card
 community.spiceworks.com##.footer > .root-post_footer-controls
@@ -24,6 +26,7 @@ community.spiceworks.com##.posts-wrapper
 community.spiceworks.com##.replies
 community.spiceworks.com##.single-item-card_footer_replies
 community.spiceworks.com##.site-footer_menu--social-links.site-footer_menu
+||disqus.com/embed/comments/$subdocument
 developers.google.com###gplus-comment-container
 dnsprivacy.org###comments-section
 filehippo.com###soft-news
@@ -43,12 +46,20 @@ fossbytes.com##.widget_execphp
 fossbytes.com##.widget_siliconcounters.widget
 fossbytes.com##.wpb_raw_html.wpb_content_element.wpb_raw_code
 fossbytes.com##footer > h5
+gadgets.ndtv.com###adslot300x250ATF
+gadgets.ndtv.com##._g360_widget_sponsrd
+gadgets.ndtv.com##.comment_story
 gadgets.ndtv.com##.gsocialbar
+gadgets.ndtv.com##.lhs_top_banner
 hackernoon.com##.supplementalPostContent
 home.bt.com##.hidden-xs.leaderboard
+https://gadgets.ndtv.com/others/news/xiaomi-india-gst-rate-cut-10000mah-20000mah-mi-power-bank-2i-pro-price-cut-1890948?pfrom=home-tech
+https://gadgets.ndtv.com/others/news/xiaomi-india-gst-rate-cut-10000mah-20000mah-mi-power-bank-2i-pro-price-cut-1890948?pfrom=home-tech
+indianexpress.com###append_breaking_box
 indianexpress.com###append_breaking_box
 indianexpress.com###responded
 indianexpress.com###tie_topcommentlist
+indianexpress.com###vuukle-comments
 indianexpress.com##.adbox-border-desk
 indianexpress.com##.followusbx
 indianexpress.com##.ie-sponsoredbox
@@ -102,8 +113,11 @@ phys.org##.info
 phys.org##.red
 phys.org##.tabs2
 pureinfotech.com##.btn-global.show-comments
+sports.ndtv.com###noprintable > .share-tool-detail.lrStyle.total-share-container
 sports.ndtv.com##.banner-grp
+sports.ndtv.com##.comment_story
 sports.ndtv.com##.dont-miss
+sports.ndtv.com##.hd2
 sports.ndtv.com##.twitter-follow-button
 techpp.com###social-menu
 telecom.economictimes.indiatimes.com###div-gpt-ad-1450941859122-4
@@ -127,6 +141,12 @@ thewire.in##.about-us__sidebar-social-link
 thewire.in##.header__social-button
 thewire.in##.postComplete__commentHeader
 thewire.in##div:nth-of-type(2) > .about-border--red
+timesofindia.indiatimes.com##.bottom-comments
+timesofindia.indiatimes.com##.comments
+twitter.com###global-nav-moments
+twitter.com##.Footer-adsModule
+twitter.com##.is-autoCentered.is-forceRight.dropdown-menu--rightAlign.dropdown-menu.DashUserDropdown > ul > li:nth-of-type(5) > .js-nav
+twitter.com##.js-moments-tab.moments
 venturebeat.com###the_footer
 workaround.org###comments
 www.airtel.in##.social
@@ -160,11 +180,17 @@ www.bleepingcomputer.com##.cz-news-comment
 www.bleepingcomputer.com##.cz-post-comment-wrapp
 www.bleepingcomputer.com##.cz-related-article-wrapp
 www.business-standard.com###article-comment-frame
+www.business-standard.com###div-gpt-ad-1475494253075-6
+www.business-standard.com##.advertisements-link
+www.business-standard.com##.attribution13
+www.business-standard.com##.bannerRelease
 www.business-standard.com##.Flink-right > .line-space
+www.business-standard.com##.pB15.bBD.bT0
 www.business-standard.com##.row-panel:nth-of-type(14) > .main-cont-right > .topB.right-box-1
 www.business-standard.com##.row-panel:nth-of-type(16) > .main-cont-right > .topB.right-box-1
 www.business-standard.com##.social-icon-footer
 www.business-standard.com##.topB.box-right-panel
+www.business-standard.com##div.txt-adv-panel
 www.businessinsider.in##.topnav > .dropdown
 www.cnbc.com###rt_social
 www.cnet.com##.comment-container
@@ -189,6 +215,8 @@ www.cricbuzz.com##.cb-bg-white.cb-hm-rt-itm.cb-col-100.cb-col:nth-of-type(1)
 www.cricbuzz.com##.cb-bg-white.cb-hm-rt-itm.cb-col-100.cb-col:nth-of-type(5)
 www.cricbuzz.com##.cb-bg-white.cb-hm-rt-itm.cb-col-100.cb-col:nth-of-type(7)
 www.cricbuzz.com##.cb-ftr-cntnr > .cb-col.cb-col-25:nth-of-type(3)
+www.dailymotion.com##.AdWatchingRight__xlarge___2S3V_
+www.dailymotion.com##button.QueueActions__action___3ixmt:nth-of-type(3)
 www.digitaltrends.com##.m-mem-ad
 www.droid-life.com##.entry-meta__comments
 www.engadget.com##.c-gray-9.o-social_nav
@@ -204,6 +232,7 @@ www.eweek.com##.visible-lg-block.dfp_lb
 www.extremetech.com##.disqus-title
 www.financialexpress.com###responded
 www.financialexpress.com###tie_topcommentlist
+www.financialexpress.com###vuukle-comments
 www.financialexpress.com##.fb
 www.financialexpress.com##.fe-facbook-menu
 www.financialexpress.com##.fe-twitter-menu
@@ -212,14 +241,16 @@ www.financialexpress.com##.mb25.commentlist_container.commentlist-box
 www.financialexpress.com##.twitter
 www.getfitso.com###comments
 www.ghacks.net###comments
-www.gsmarena.com##.article-info-meta
-www.gsmarena.com##.meta-item-comments
 www.google.co.in##.b2hzT
 www.google.com##.b2hzT
+www.gsmarena.com##.article-info-meta
+www.gsmarena.com##.meta-item-comments
 www.helpnetsecurity.com##.entry-share-bottom
+www.hirist.com###learngrow
+www.hirist.com##.adppnew.pdlr0
+www.hirist.com##.bannerspace
 www.howtogeek.com##.third.footer-col
 www.inc.com##.insideArticleAdContainer
-indianexpress.com###append_breaking_box
 www.insightsonindia.com###disqus_thread
 www.itpro.co.uk###block-dfp-billboard-leaderboard
 www.itpro.co.uk###block-dfp-mpu-1
@@ -237,10 +268,10 @@ www.lifehack.org##ul > ._2kD06._1iYnl > .hidden-xs.hidden-sm
 www.livemint.com##.ad-box.column
 www.livestrong.com##.top_header--right
 www.makeuseof.com##.amz-callout
-www.ndtv.com###sticky_navigation_wrapper
-www.ndtv.com###story_share_bar
 www.ndtv.com###_pcwgtlhs
 www.ndtv.com###_pcwgtmid
+www.ndtv.com###sticky_navigation_wrapper
+www.ndtv.com###story_share_bar
 www.ndtv.com##.ad728_cont
 www.ndtv.com##.adcont
 www.ndtv.com##.comment_story
@@ -368,6 +399,7 @@ www.windowscentral.com##.article-bullet__comment-count
 www.windowscentral.com##.clearfixb
 www.windowscentral.com##.fa-comments.fa
 www.windowscentral.com##.header-drawer__navigation-list--social
+www.windowscentral.com##.header-top-alert-bar
 www.windowscentral.com##.header-top__navigation-item:nth-of-type(1) > .header-top__navigation-link
 www.windowscentral.com##.header-top__navigation-item:nth-of-type(2) > .header-top__navigation-link
 www.windowscentral.com##.header-top__offer
@@ -382,26 +414,9 @@ www.windowslatest.com##.td-post-comments
 www.windowslatest.com##.td-post-sharing-bottom.td-post-sharing
 www.windowslatest.com##.td-social-style-2.footer-social-wrap
 www.windowslatest.com##.widget_custom_html.widget.widget_text
+www.youtube.com###chat
+www.youtube.com##.ytd-live-chat-frame.style-scope
 www.zdnet.com##.comments
 www.zdnet.com##.loggedOut.add-comment
 www.zdnet.com##.postComments
 www.zdnet.com##.shareBar
-https://gadgets.ndtv.com/others/news/xiaomi-india-gst-rate-cut-10000mah-20000mah-mi-power-bank-2i-pro-price-cut-1890948?pfrom=home-tech
-gadgets.ndtv.com##.comment_story
-https://gadgets.ndtv.com/others/news/xiaomi-india-gst-rate-cut-10000mah-20000mah-mi-power-bank-2i-pro-price-cut-1890948?pfrom=home-tech
-gadgets.ndtv.com##.lhs_top_banner
-chocolatey.org##.dsq-brlink
-beebom.com##.comment-news
-twitter.com##.Footer-adsModule
-www.youtube.com##.ytd-live-chat-frame.style-scope
-www.youtube.com###chat
-www.dailymotion.com##button.QueueActions__action___3ixmt:nth-of-type(3)
-twitter.com##.js-moments-tab.moments
-twitter.com##.is-autoCentered.is-forceRight.dropdown-menu--rightAlign.dropdown-menu.DashUserDropdown > ul > li:nth-of-type(5) > .js-nav
-www.hirist.com##.bannerspace
-www.hirist.com###learngrow
-www.hirist.com##.adppnew.pdlr0
-www.dailymotion.com##.AdWatchingRight__xlarge___2S3V_
-www.financialexpress.com###vuukle-comments
-twitter.com###global-nav-moments
-indianexpress.com###vuukle-comments
