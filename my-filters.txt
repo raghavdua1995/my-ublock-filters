@@ -1,6 +1,9 @@
+||disqus.com/embed/comments/$subdocument
 9to5google.com###js-header-social
 9to5google.com##.googleplus
 9to5google.com##.has-tooltip
+arstechnica.com###ars-sub-app-free-yubikey
+arstechnica.com###social-footer
 arstechnica.com###social-footer
 arstechnica.com###social-left
 arstechnica.com###story-recommendations
@@ -26,7 +29,7 @@ community.spiceworks.com##.posts-wrapper
 community.spiceworks.com##.replies
 community.spiceworks.com##.single-item-card_footer_replies
 community.spiceworks.com##.site-footer_menu--social-links.site-footer_menu
-||disqus.com/embed/comments/$subdocument
+dailyresearchnews.com###comments
 developers.google.com###gplus-comment-container
 dnsprivacy.org###comments-section
 filehippo.com###soft-news
@@ -138,16 +141,22 @@ thewincentral.com##.comment_count
 thewincentral.com##.featured-category-wrapper
 thewire.in##.about-us__sidebar-follow-title
 thewire.in##.about-us__sidebar-social-link
+thewire.in##.gallery-social-share
 thewire.in##.header__social-button
 thewire.in##.postComplete__commentHeader
 thewire.in##div:nth-of-type(2) > .about-border--red
 timesofindia.indiatimes.com##.bottom-comments
 timesofindia.indiatimes.com##.comments
+trak.in###bs-subscribe-newsletter-2
+trak.in###pd_top_rated-2
+trak.in##.about-icons-list
+trak.in##.bs-comments-wrapper
 twitter.com###global-nav-moments
 twitter.com##.Footer-adsModule
 twitter.com##.is-autoCentered.is-forceRight.dropdown-menu--rightAlign.dropdown-menu.DashUserDropdown > ul > li:nth-of-type(5) > .js-nav
 twitter.com##.js-moments-tab.moments
 venturebeat.com###the_footer
+wccftech.com##.footer-4 > h3:nth-of-type(1)
 workaround.org###comments
 www.airtel.in##.social
 www.alphr.com###block-menu-menu-footer-social
@@ -192,6 +201,10 @@ www.business-standard.com##.social-icon-footer
 www.business-standard.com##.topB.box-right-panel
 www.business-standard.com##div.txt-adv-panel
 www.businessinsider.in##.topnav > .dropdown
+www.businesstoday.in###comment
+www.businesstoday.in##.bottomSliderSwipe
+www.businesstoday.in##.closeBottomSlider
+www.businesstoday.in##.ytube
 www.cnbc.com###rt_social
 www.cnet.com##.comment-container
 www.cnet.com##.facebook.socialCTALink
@@ -239,8 +252,14 @@ www.financialexpress.com##.fe-twitter-menu
 www.financialexpress.com##.gplus
 www.financialexpress.com##.mb25.commentlist_container.commentlist-box
 www.financialexpress.com##.twitter
+www.gadgetsnow.com##.colombia
+www.gadgetsnow.com##.follow
+www.gadgetsnow.com##.user-sec
 www.getfitso.com###comments
 www.ghacks.net###comments
+www.gizbot.com##.grid3
+www.gizbot.com##.opinion-poll
+www.gizbot.com##.other-site-details
 www.google.co.in##.b2hzT
 www.google.com##.b2hzT
 www.gsmarena.com##.article-info-meta
@@ -249,6 +268,7 @@ www.helpnetsecurity.com##.entry-share-bottom
 www.hirist.com###learngrow
 www.hirist.com##.adppnew.pdlr0
 www.hirist.com##.bannerspace
+www.hotstar.com##.social-unit
 www.howtogeek.com##.third.footer-col
 www.inc.com##.insideArticleAdContainer
 www.insightsonindia.com###disqus_thread
@@ -270,6 +290,7 @@ www.livestrong.com##.top_header--right
 www.makeuseof.com##.amz-callout
 www.ndtv.com###_pcwgtlhs
 www.ndtv.com###_pcwgtmid
+www.ndtv.com###ndtMovies
 www.ndtv.com###sticky_navigation_wrapper
 www.ndtv.com###story_share_bar
 www.ndtv.com##.ad728_cont
@@ -282,8 +303,12 @@ www.ndtv.com##.iconli
 www.ndtv.com##.ins_rhscont300
 www.ndtv.com##.latest-stories-38.col_third > ul > li:nth-of-type(2)
 www.ndtv.com##.more_st_sticky_cont
+www.ndtv.com##.movie-main
 www.ndtv.com##.socialicon
 www.ndtv.com##.sponscont
+www.ndtv.com##[data-tb-region="lifestyle"]
+www.ndtv.com##[data-tb-region="offbeat"]
+www.ndtv.com##[href^="https://www.ndtv.com/offbeat"]
 www.ndtv.com##div:nth-of-type(10) > .row
 www.neowin.net###comments
 www.neowin.net##.article-share
@@ -295,6 +320,7 @@ www.neowin.net##.nav-social-alt-toggle
 www.neowin.net##.t-col-4.footer-top-col:nth-of-type(3) > h3
 www.neowin.net##.widget-community
 www.neowin.net##.widget-poll.widget
+www.neowin.net##div.t-col-3.footer-top-col:nth-of-type(3)
 www.newindianexpress.com##.ArticleComments
 www.newindianexpress.com##.footer1
 www.newsfactor.com##div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(4)
@@ -319,6 +345,8 @@ www.onmsft.com##.mashsb-container
 www.onmsft.com##.row:nth-of-type(2) > .col-lg-5:nth-of-type(2) > .row > .col-sm-10
 www.onmsft.com##.row:nth-of-type(7) > .col-lg-5:nth-of-type(2) > .row > .col-sm-10
 www.onmsft.com##.social-icon
+www.osnews.com##.f-widget-2.f-widget
+www.osnews.com##.thecomment
 www.pcauthority.com.au###disqus-container
 www.pcauthority.com.au###latest-comments
 www.pcauthority.com.au###subscribe-ad
@@ -335,12 +363,15 @@ www.programmableweb.com##.coments-title
 www.psychologytoday.com##.social__media
 www.sci-tech-today.com##td:nth-of-type(4)
 www.spiceworks.com##.site-footer_menu--social-links.site-footer_menu
+www.tatapower-ddl.com##.footer_link > ul > li:nth-of-type(5) > h3:nth-of-type(1)
+www.tatapower-ddl.com##.social_ic
 www.techspot.com##.adContainerNews
 www.techworm.net###comments
 www.techworm.net##.td-module-comments
 www.techworm.net##.td-post-comments
 www.techworm.net##.td-ss-main-sidebar > .widget_text.widget.td_block_template_11
 www.thehindu.com###ifrm_test_ad_8815a
+www.thehindu.com###stickyfooterarticle
 www.thehindu.com##.author-bottom
 www.thehindu.com##.hidden-xs.hover-social-media-top
 www.thehindu.com##.mobile-padding.\31 x_ConnectWithUs
@@ -396,24 +427,30 @@ www.valuewalk.com##.comments
 www.valuewalk.com##.mashsb-stretched.mashsb-main.mashsb-container
 www.valuewalk.com##.top-navbar
 www.windowscentral.com##.article-bullet__comment-count
+www.windowscentral.com##.badge--comments
 www.windowscentral.com##.clearfixb
 www.windowscentral.com##.fa-comments.fa
 www.windowscentral.com##.header-drawer__navigation-list--social
+www.windowscentral.com##.header-side__navigation-item--nav-forum.header-side__navigation-item--nav.header-side__navigation-item
 www.windowscentral.com##.header-top-alert-bar
 www.windowscentral.com##.header-top__navigation-item:nth-of-type(1) > .header-top__navigation-link
 www.windowscentral.com##.header-top__navigation-item:nth-of-type(2) > .header-top__navigation-link
 www.windowscentral.com##.header-top__offer
 www.windowscentral.com##.js-comments-jump
 www.windowscentral.com##.js-comments-toggle.article-meta__comments-toggle
+www.windowscentral.com##.js-header-drawer-toggle--forum.header-drawer__navigation-button--nav
 www.windowscentral.com##section[data-tb-region="Deals"]
 www.windowscentral.com##section[data-tb-region="Digital Offers"]
 www.windowslatest.com###disqus_thread
 www.windowslatest.com##.ai-viewport-1.ai_widget.widget
+www.windowslatest.com##.td-container > div.td-pb-row:nth-of-type(1) > .td-pb-span12
 www.windowslatest.com##.td-module-comments
 www.windowslatest.com##.td-post-comments
 www.windowslatest.com##.td-post-sharing-bottom.td-post-sharing
 www.windowslatest.com##.td-social-style-2.footer-social-wrap
 www.windowslatest.com##.widget_custom_html.widget.widget_text
+www.xda-developers.com##.comments
+www.xda-developers.com##.xda-discuss
 www.youtube.com###chat
 www.youtube.com##.ytd-live-chat-frame.style-scope
 www.zdnet.com##.comments
