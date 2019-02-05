@@ -290,7 +290,6 @@ www.livestrong.com##.top_header--right
 www.makeuseof.com##.amz-callout
 www.ndtv.com###_pcwgtlhs
 www.ndtv.com###_pcwgtmid
-www.ndtv.com###ndtMovies
 www.ndtv.com###sticky_navigation_wrapper
 www.ndtv.com###story_share_bar
 www.ndtv.com##.ad728_cont
@@ -306,9 +305,6 @@ www.ndtv.com##.more_st_sticky_cont
 www.ndtv.com##.movie-main
 www.ndtv.com##.socialicon
 www.ndtv.com##.sponscont
-www.ndtv.com##[data-tb-region="lifestyle"]
-www.ndtv.com##[data-tb-region="offbeat"]
-www.ndtv.com##[href^="https://www.ndtv.com/offbeat"]
 www.ndtv.com##div:nth-of-type(10) > .row
 www.neowin.net###comments
 www.neowin.net##.article-share
