@@ -4,7 +4,6 @@
 9to5google.com##.has-tooltip
 arstechnica.com###ars-sub-app-free-yubikey
 arstechnica.com###social-footer
-arstechnica.com###social-footer
 arstechnica.com###social-left
 arstechnica.com###story-recommendations
 arstechnica.com##.column-wrapper:nth-of-type(1) > .xrail
@@ -20,6 +19,8 @@ betanews.com##.actions
 betanews.com##.follow
 betanews.com##.reviewCount
 blog.uncommon.is##.supplementalPostContent
+borncity.com###respond
+borncity.com##.code-block-2.code-block
 chocolatey.org###package-disclaimer
 chocolatey.org##.dsq-brlink
 community.spiceworks.com###postform
@@ -36,6 +37,7 @@ filehippo.com###soft-news
 filehippo.com##.home-right-col
 filehippo.com##.middle-column-leaderboard-ad-container
 filehippo.com##.right-hand-col
+food.ndtv.com##.showFilePanel
 fossbytes.com##.col3.scw-horizontal:nth-of-type(5)
 fossbytes.com##.col3.scw-horizontal:nth-of-type(5) > .scw-wrap:nth-of-type(1)
 fossbytes.com##.col3.scw-horizontal:nth-of-type(5) > .scw-wrap:nth-of-type(1) > .scw-item > .scw-discount
@@ -57,15 +59,16 @@ gadgets.ndtv.com##.lhs_top_banner
 hackernoon.com##.supplementalPostContent
 home.bt.com##.hidden-xs.leaderboard
 https://gadgets.ndtv.com/others/news/xiaomi-india-gst-rate-cut-10000mah-20000mah-mi-power-bank-2i-pro-price-cut-1890948?pfrom=home-tech
-https://gadgets.ndtv.com/others/news/xiaomi-india-gst-rate-cut-10000mah-20000mah-mi-power-bank-2i-pro-price-cut-1890948?pfrom=home-tech
+inc42.com##.single-post-box
 indianexpress.com###append_breaking_box
-indianexpress.com###append_breaking_box
+indianexpress.com###comments
 indianexpress.com###responded
 indianexpress.com###tie_topcommentlist
 indianexpress.com###vuukle-comments
 indianexpress.com##.adbox-border-desk
 indianexpress.com##.followusbx
 indianexpress.com##.ie-sponsoredbox
+indianexpress.com##.m-story-meta__share-actions
 indianexpress.com##.mb25.commentlist_container.commentlist-box
 indianexpress.com##.social-header
 indianexpress.com##.social-icons
@@ -95,6 +98,8 @@ mspoweruser.com##.shunno-share-block
 mspoweruser.com##.shunno-single-comments
 mspoweruser.com##.shunno-widget-deals
 mspoweruser.com##.social-links
+mybroadband.co.za##.footer-sub-menu > ul:nth-of-type(4)
+mybroadband.co.za##.show-comments
 nakedsecurity.sophos.com##.banner-panel
 nakedsecurity.sophos.com##.comment-box
 nakedsecurity.sophos.com##.comments-panel
@@ -122,6 +127,7 @@ sports.ndtv.com##.comment_story
 sports.ndtv.com##.dont-miss
 sports.ndtv.com##.hd2
 sports.ndtv.com##.twitter-follow-button
+springhouse.in##.footer_col4.column4
 techpp.com###social-menu
 telecom.economictimes.indiatimes.com###div-gpt-ad-1450941859122-4
 telecom.economictimes.indiatimes.com###ssPopupSharePanel
@@ -181,11 +187,15 @@ www.askvg.com###Nav:nth-of-type(3)
 www.askvg.com###sidebarHome
 www.askvg.com##.comment-respond
 www.askvg.com##.commentlist
+www.ayurtimes.com###comments
+www.ayurtimes.com###epcl_social-3
 www.bijlibachao.com##.sub-icons
+www.bleepingcomputer.com###comments
 www.bleepingcomputer.com##.bc_social_icons
 www.bleepingcomputer.com##.cc-type-info.cc-banner.cc-window
 www.bleepingcomputer.com##.cz-boa-wrapp
 www.bleepingcomputer.com##.cz-news-comment
+www.bleepingcomputer.com##.cz-newz-comment-inner-wrappper
 www.bleepingcomputer.com##.cz-post-comment-wrapp
 www.bleepingcomputer.com##.cz-related-article-wrapp
 www.business-standard.com###article-comment-frame
@@ -230,6 +240,11 @@ www.cricbuzz.com##.cb-bg-white.cb-hm-rt-itm.cb-col-100.cb-col:nth-of-type(7)
 www.cricbuzz.com##.cb-ftr-cntnr > .cb-col.cb-col-25:nth-of-type(3)
 www.dailymotion.com##.AdWatchingRight__xlarge___2S3V_
 www.dailymotion.com##button.QueueActions__action___3ixmt:nth-of-type(3)
+www.digit.in###phando_59de4084ecd54_iframe
+www.digit.in##.comments
+www.digit.in##.gadgetDealSideBar
+www.digit.in##[title="Advertisement"]
+www.digit.in##div.advertisements
 www.digitaltrends.com##.m-mem-ad
 www.droid-life.com##.entry-meta__comments
 www.engadget.com##.c-gray-9.o-social_nav
@@ -252,8 +267,15 @@ www.financialexpress.com##.fe-twitter-menu
 www.financialexpress.com##.gplus
 www.financialexpress.com##.mb25.commentlist_container.commentlist-box
 www.financialexpress.com##.twitter
+www.forbes.com##.ntv-wrapper
+www.forbes.com##.vestpocket
+www.fourkitchens.com###content-widgets > .widget-area
+www.fourkitchens.com##.disqus.comments-area
+www.gadgetsnow.com##.as_footer
 www.gadgetsnow.com##.colombia
+www.gadgetsnow.com##.comments
 www.gadgetsnow.com##.follow
+www.gadgetsnow.com##.grid-list.gn-affiliate-box
 www.gadgetsnow.com##.user-sec
 www.getfitso.com###comments
 www.ghacks.net###comments
@@ -264,6 +286,7 @@ www.google.co.in##.b2hzT
 www.google.com##.b2hzT
 www.gsmarena.com##.article-info-meta
 www.gsmarena.com##.meta-item-comments
+www.healthline.com###inline1__slot
 www.helpnetsecurity.com##.entry-share-bottom
 www.hirist.com###learngrow
 www.hirist.com##.adppnew.pdlr0
@@ -277,6 +300,10 @@ www.itpro.co.uk###block-dfp-mpu-1
 www.itpro.co.uk###block-dfp-mpu-2
 www.itpro.co.uk###dfp-ad-lead_gen_native_slot
 www.itpro.co.uk###dfp-ad-stickyslot_0
+www.jiosaavn.com##.ad
+www.jiosaavn.com##.comments
+www.jiosaavn.com##[onclick="Interface.smoothTo( $('.comments') );"]
+www.keycdn.com##.discussion
 www.laptopmag.com##.mobOff.mod:nth-of-type(4)
 www.lifehack.org##.conv-widget-h
 www.lifehack.org##.conv_active.conv-overlay
@@ -361,6 +388,9 @@ www.sci-tech-today.com##td:nth-of-type(4)
 www.spiceworks.com##.site-footer_menu--social-links.site-footer_menu
 www.tatapower-ddl.com##.footer_link > ul > li:nth-of-type(5) > h3:nth-of-type(1)
 www.tatapower-ddl.com##.social_ic
+www.techlicious.com###commentform
+www.techlicious.com###comments
+www.techlicious.com###comments-ajax
 www.techspot.com##.adContainerNews
 www.techworm.net###comments
 www.techworm.net##.td-module-comments
@@ -389,6 +419,7 @@ www.theregister.co.uk##img[src="/design_picker/029b461aa66d73b1e8cb351f99212507d
 www.theverge.com##.c-comments
 www.theverge.com##.p-comment-notification
 www.theverge.com##.tab-bar-fixed
+www.theweathernetwork.com##.nowrap.promo_service
 www.thewindowsclub.com###searchbox
 www.thewindowsclub.com###text-422067531
 www.thurrott.com##.-banner.ad
@@ -435,6 +466,7 @@ www.windowscentral.com##.header-top__offer
 www.windowscentral.com##.js-comments-jump
 www.windowscentral.com##.js-comments-toggle.article-meta__comments-toggle
 www.windowscentral.com##.js-header-drawer-toggle--forum.header-drawer__navigation-button--nav
+www.windowscentral.com##.swal-overlay--show-modal.swal-overlay
 www.windowscentral.com##section[data-tb-region="Deals"]
 www.windowscentral.com##section[data-tb-region="Digital Offers"]
 www.windowslatest.com###disqus_thread
@@ -447,6 +479,7 @@ www.windowslatest.com##.td-social-style-2.footer-social-wrap
 www.windowslatest.com##.widget_custom_html.widget.widget_text
 www.xda-developers.com##.comments
 www.xda-developers.com##.xda-discuss
+www.xda-developers.com##div.clearfix.item:nth-of-type(4) > .item_content > .clearfix.item_meta
 www.youtube.com###chat
 www.youtube.com##.ytd-live-chat-frame.style-scope
 www.zdnet.com##.comments
