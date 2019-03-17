@@ -353,6 +353,7 @@ www.newslaundry.com##.nl-poll
 www.newslaundry.com##.nl-social-share-container
 www.newslaundry.com##.scoreboard
 www.newslaundry.com##.vote-counter-section
+www.npci.org.in##.footer_contact
 www.omgubuntu.co.uk###omg_disqus_recent_comments-2
 www.omgubuntu.co.uk###social-listing
 www.omgubuntu.co.uk###text-49
@@ -407,6 +408,7 @@ www.theinquirer.net###disqus_thread
 www.theinquirer.net###follow
 www.theinquirer.net##.footer-tools-content
 www.theinquirer.net##.tools-meta-outer
+www.themobileindian.com##div.text-right.add-text:nth-of-type(2)
 www.theregister.co.uk###ad-hawk
 www.theregister.co.uk###article_body_btm
 www.theregister.co.uk###story-bot-col
@@ -419,6 +421,7 @@ www.theregister.co.uk##img[src="/design_picker/029b461aa66d73b1e8cb351f99212507d
 www.theverge.com##.c-comments
 www.theverge.com##.p-comment-notification
 www.theverge.com##.tab-bar-fixed
+www.theweathernetwork.com##.colNo3.col
 www.theweathernetwork.com##.nowrap.promo_service
 www.thewindowsclub.com###searchbox
 www.thewindowsclub.com###text-422067531
@@ -480,9 +483,11 @@ www.windowslatest.com##.widget_custom_html.widget.widget_text
 www.xda-developers.com##.comments
 www.xda-developers.com##.xda-discuss
 www.xda-developers.com##div.clearfix.item:nth-of-type(4) > .item_content > .clearfix.item_meta
+www.youneedabudget.com##.footerSocialWrap
 www.youtube.com###chat
 www.youtube.com##.ytd-live-chat-frame.style-scope
 www.zdnet.com##.comments
+www.zdnet.com##.connect
 www.zdnet.com##.loggedOut.add-comment
 www.zdnet.com##.postComments
 www.zdnet.com##.shareBar
