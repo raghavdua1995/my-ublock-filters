@@ -33,6 +33,7 @@ community.spiceworks.com##.site-footer_menu--social-links.site-footer_menu
 dailyresearchnews.com###comments
 developers.google.com###gplus-comment-container
 dnsprivacy.org###comments-section
+entrackr.com##.elementor-widget-bdt-social-share.elementor-widget.bdt-social-share-buttons-color-original.bdt-ep-grid-0.elementor-hidden-phone.elementor-hidden-tablet.bdt-social-share-buttons-align-left.bdt-ep-grid-mobile-0.bdt-social-share-buttons-shape-circle.bdt-social-share-buttons-style-gradient.bdt-social-share-buttons-view-icon.elementor-element-34815d1.elementor-element > .elementor-widget-container > .bdt-ep-grid.bdt-social-share
 filehippo.com###soft-news
 filehippo.com##.home-right-col
 filehippo.com##.middle-column-leaderboard-ad-container
@@ -82,6 +83,7 @@ itsfoss.com###text-9
 itsfoss.com##.entry-comments-link
 itsfoss.com##.et_social_networks
 itsfoss.com##.scw-item
+itsfoss.com##.ss-inline-share-wrapper
 itsfoss.com##.thrive-comments-content
 jakearchibald.com###comments
 lifehacker.com###js_discussion-region
@@ -120,6 +122,8 @@ phys.org##.connect-box
 phys.org##.info
 phys.org##.red
 phys.org##.tabs2
+portswigger.net##.is-icon.icon-ps-facebook
+portswigger.net##.is-icon.icon-ps-twitter
 pureinfotech.com##.btn-global.show-comments
 sports.ndtv.com###noprintable > .share-tool-detail.lrStyle.total-share-container
 sports.ndtv.com##.banner-grp
@@ -168,6 +172,8 @@ www.airtel.in##.social
 www.alphr.com###block-menu-menu-footer-social
 www.alphr.com##.amazon-product--container
 www.alphr.com##.lazyadslot
+www.amazon.in###ape_Gateway_right-2_desktop_placement_Feedback
+www.amazon.in###heroQuickPromo_feature_div
 www.androidauthority.com###opinionstage_widget-2
 www.androidcentral.com##.article-bullet__comment-count
 www.androidcentral.com##.article-leaderboard
@@ -181,9 +187,9 @@ www.androidpolice.com###comments
 www.androidpolice.com###wpb_widget-3
 www.androidpolice.com##.comment-btn
 www.androidpolice.com##.post-hotness-meter
+www.askvg.com###Nav:nth-of-type(3)
 www.askvg.com###banner
 www.askvg.com###comments
-www.askvg.com###Nav:nth-of-type(3)
 www.askvg.com###sidebarHome
 www.askvg.com##.comment-respond
 www.askvg.com##.commentlist
@@ -191,6 +197,7 @@ www.ayurtimes.com###comments
 www.ayurtimes.com###epcl_social-3
 www.bijlibachao.com##.sub-icons
 www.bleepingcomputer.com###comments
+www.bleepingcomputer.com##.bc_news_comment
 www.bleepingcomputer.com##.bc_social_icons
 www.bleepingcomputer.com##.cc-type-info.cc-banner.cc-window
 www.bleepingcomputer.com##.cz-boa-wrapp
@@ -198,12 +205,13 @@ www.bleepingcomputer.com##.cz-news-comment
 www.bleepingcomputer.com##.cz-newz-comment-inner-wrappper
 www.bleepingcomputer.com##.cz-post-comment-wrapp
 www.bleepingcomputer.com##.cz-related-article-wrapp
+www.bleepingcomputer.com##.fa-twitter.fa
 www.business-standard.com###article-comment-frame
 www.business-standard.com###div-gpt-ad-1475494253075-6
+www.business-standard.com##.Flink-right > .line-space
 www.business-standard.com##.advertisements-link
 www.business-standard.com##.attribution13
 www.business-standard.com##.bannerRelease
-www.business-standard.com##.Flink-right > .line-space
 www.business-standard.com##.pB15.bBD.bT0
 www.business-standard.com##.row-panel:nth-of-type(14) > .main-cont-right > .topB.right-box-1
 www.business-standard.com##.row-panel:nth-of-type(16) > .main-cont-right > .topB.right-box-1
@@ -212,6 +220,7 @@ www.business-standard.com##.topB.box-right-panel
 www.business-standard.com##div.txt-adv-panel
 www.businessinsider.in##.topnav > .dropdown
 www.businesstoday.in###comment
+www.businesstoday.in###topsharetool
 www.businesstoday.in##.bottomSliderSwipe
 www.businesstoday.in##.closeBottomSlider
 www.businesstoday.in##.ytube
@@ -279,6 +288,10 @@ www.gadgetsnow.com##.grid-list.gn-affiliate-box
 www.gadgetsnow.com##.user-sec
 www.getfitso.com###comments
 www.ghacks.net###comments
+www.ghacks.net###ghacks_ad_code-2
+www.ghacks.net###ghacks_ad_code-3
+www.ghacks.net###ghacks_ad_code-4
+www.ghacks.net###ghacks_ad_code-5
 www.gizbot.com##.grid3
 www.gizbot.com##.opinion-poll
 www.gizbot.com##.other-site-details
@@ -393,6 +406,7 @@ www.techlicious.com###commentform
 www.techlicious.com###comments
 www.techlicious.com###comments-ajax
 www.techspot.com##.adContainerNews
+www.techspot.com##.desktop.follow-subscribe
 www.techworm.net###comments
 www.techworm.net##.td-module-comments
 www.techworm.net##.td-post-comments
@@ -418,6 +432,8 @@ www.theregister.co.uk##.comments_share
 www.theregister.co.uk##.count.reg_btn
 www.theregister.co.uk##.reg_comments > .count
 www.theregister.co.uk##img[src="/design_picker/029b461aa66d73b1e8cb351f99212507d4da660c/graphics/icon/rect_comment_bubble_white.png"]
+www.theverge.com##.adblock-whitelist-messaging__article-wrapper
+www.theverge.com##.adblock-whitelist-messaging__wrapper
 www.theverge.com##.c-comments
 www.theverge.com##.p-comment-notification
 www.theverge.com##.tab-bar-fixed
@@ -456,6 +472,7 @@ www.valuewalk.com###text-221
 www.valuewalk.com##.comments
 www.valuewalk.com##.mashsb-stretched.mashsb-main.mashsb-container
 www.valuewalk.com##.top-navbar
+www.washingtonpost.com##.modal-mask
 www.windowscentral.com##.article-bullet__comment-count
 www.windowscentral.com##.badge--comments
 www.windowscentral.com##.clearfixb
@@ -491,3 +508,4 @@ www.zdnet.com##.connect
 www.zdnet.com##.loggedOut.add-comment
 www.zdnet.com##.postComments
 www.zdnet.com##.shareBar
+www.zdnet.com##[data-component="disqusLoader"]
