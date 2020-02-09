@@ -179,6 +179,7 @@ www.airtel.in##.social
 www.alphr.com###block-menu-menu-footer-social
 www.alphr.com##.amazon-product--container
 www.alphr.com##.lazyadslot
+www.amazon.in##[data-cel-widget*="desktop-dp-sims_SponsoredProductsSimsDpDesktop"]
 www.amazon.in###ape_Gateway_right-2_desktop_placement_Feedback
 www.amazon.in###heroQuickPromo_feature_div
 www.androidauthority.com###opinionstage_widget-2
@@ -194,6 +195,8 @@ www.androidpolice.com###comments
 www.androidpolice.com###wpb_widget-3
 www.androidpolice.com##.comment-btn
 www.androidpolice.com##.post-hotness-meter
+www.bloombergquint.com##[class*="two-stories-with-ad-slot-m__ad_container"]
+www.bloombergquint.com###miniLiveTvPlayer
 www.askvg.com###banner
 www.askvg.com###comments
 www.askvg.com###Nav:nth-of-type(3)
@@ -266,6 +269,8 @@ www.digit.in##[title="Advertisement"]
 www.digit.in##div.advertisements
 www.digitaltrends.com##.m-mem-ad
 www.droid-life.com##.entry-meta__comments
+www.economist.com##.ds-footer-cols-share
+www.economist.com##[class*=advert]
 www.engadget.com##.c-gray-9.o-social_nav
 www.engadget.com##.grid-divider.col-2-of-12\@m.col-1-of-12\@tl\+.col-2-of-12.vm.grid__cell
 www.engadget.com##.grid-divider\@tl\+.col-3-of-12\@m.col-2-of-12.vm.grid__cell
