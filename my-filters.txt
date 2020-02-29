@@ -205,6 +205,7 @@ www.askvg.com##.comment-respond
 www.askvg.com##.commentlist
 www.ayurtimes.com###comments
 www.ayurtimes.com###epcl_social-3
+www.ayurtimes.com##.meta-comment
 www.bijlibachao.com##.sub-icons
 www.bleepingcomputer.com###comments
 www.bleepingcomputer.com##.bc_news_comment
@@ -351,6 +352,7 @@ www.ndtv.com###story_share_bar
 www.ndtv.com##.ad-rgt
 www.ndtv.com##.ad728_cont
 www.ndtv.com##.adcont
+www.ndtv.com##.cmt_btn
 www.ndtv.com##.comment_story
 www.ndtv.com##.footer_left > h5
 www.ndtv.com##.footer_socials
