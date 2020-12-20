@@ -14,6 +14,7 @@ beebom.com##.comment-news
 beta.techcrunch.com##.article__action-links
 beta.techcrunch.com##.block--comment
 betanews.com###adtoniq-msg-bar
+betanews.com##.articleBoxad
 betanews.com###disqus_thread
 betanews.com##.actions
 betanews.com##.follow
@@ -312,6 +313,7 @@ www.ghacks.net##.ghacks-ad
 www.gizbot.com##.grid3
 www.gizbot.com##.opinion-poll
 www.gizbot.com##.other-site-details
+www.glassdoor.co.in###HardsellOverlay
 www.google.co.in##.b2hzT
 www.google.com##.b2hzT
 www.gsmarena.com##.article-info-meta
