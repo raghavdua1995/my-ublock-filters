@@ -19,11 +19,15 @@ betanews.com###disqus_thread
 betanews.com##.actions
 betanews.com##.follow
 betanews.com##.reviewCount
+blog.cloudflare.com##.dsq-brlink
+blog.cloudflare.com###disqus_thread
 blog.uncommon.is##.supplementalPostContent
 borncity.com###respond
 borncity.com##.code-block-2.code-block
 chocolatey.org###package-disclaimer
 chocolatey.org##.dsq-brlink
+chocolatey.org##.show.fade.modal-backdrop
+chocolatey.org#$#body.modal-open{ overflow: auto!important}
 community.spiceworks.com###postform
 community.spiceworks.com##.community-content--ad_card
 community.spiceworks.com##.footer > .root-post_footer-controls
@@ -153,6 +157,8 @@ telecomtalk.info###comments
 telecomtalk.info##.fa-comment
 telecomtalk.info##.singlepost-social-icons
 thenextweb.com##.deals
+theprint.in###view_comment
+theprint.in##.footer-social-wrap
 thewincentral.com###disqus_thread
 thewincentral.com##.comment_count
 thewincentral.com##.featured-category-wrapper
